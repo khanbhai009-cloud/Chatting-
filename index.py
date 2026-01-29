@@ -11,7 +11,7 @@ from telebot.types import ChatPermissions
 # CONFIGURATION
 # --------------------------------------------------------------------------------
 # REPLACE WITH YOUR ACTUAL BOT TOKEN
-API_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE' 
+API_TOKEN = '8488403945:AAFUTo8SqhgFIeJ8ehuFa_VNktklnXcPcvs' 
 
 # AI API ENDPOINT (STRICTLY AS REQUESTED)
 AI_API_URL = "https://gpt4.apisimpacientes.workers.dev/chat"
